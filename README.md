@@ -10,7 +10,7 @@ SimplexFramework 是基于symfony核心组件开发的一个简单符合MVC框�
 - symfony/dependency-injection  容器和依赖注入组件
 
 ## 安装
-- git clone git@172.16.80.102:wangxingyuan/SimplxFramework.git
+- git clone https://github.com/kinyou/SimplxFramework.git
 - cd SimplxFramework && composer install
 
 ## 目录说明
